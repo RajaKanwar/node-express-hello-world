@@ -32,7 +32,4 @@ steps:
     TargetPath: 'C:\Devops_azure'
   displayName: 'Publish Artifact' 
    
-- script: |
-    echo "Deployment step goes here."
-    # Add deployment commands, e.g., Azure App Service or Container Registry
-  displayName: 'Deploy Application'
+
